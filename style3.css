@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    min-height: 100vh;
+    background-color: darkgoldenrod;
+}
+
+ .p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e6d601;
+    font-family: sans-serif;
+ }
+
+  .l {
+display: flex;
+justify-content: center;
+  }
